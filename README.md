@@ -80,7 +80,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 Example:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hco-termux-assistant.git
+git clone https://github.com/Hackerscolonyofficial/HCO-Termux-Ai-Assistant.git
 ```
 
 ## Step 3 — Enter The Project Directory
