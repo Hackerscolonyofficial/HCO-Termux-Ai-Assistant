@@ -72,17 +72,9 @@ pkg install git -y
 ## Step 2 — Clone The Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-> Replace `YOUR_GITHUB_REPOSITORY_URL` with the GitHub repository URL.
-
-Example:
-
-```bash
 git clone https://github.com/Hackerscolonyofficial/HCO-Termux-Ai-Assistant.git
-```
 
+```
 ## Step 3 — Enter The Project Directory
 
 ```bash
@@ -508,7 +500,7 @@ sudo apt install python3 git iproute2 net-tools -y
 ```
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Hackerscolonyofficial/HCO-Termux-Ai-Assistant.git
 ```
 
 ```bash
@@ -530,7 +522,7 @@ sudo pacman -S python git iproute2 net-tools
 ```
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Hackerscolonyofficial/HCO-Termux-Ai-Assistant.git
 ```
 
 ```bash
