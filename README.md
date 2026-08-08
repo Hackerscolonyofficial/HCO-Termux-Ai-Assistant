@@ -2,8 +2,6 @@
 
 ### 🤖 Termux AI Security Assistant by Azhar HCO Team
 
-> **This code by Azhar HCO Team**
-
 A powerful, colorful, lightweight and beginner-friendly security diagnostics assistant for **Android + Termux**.
 
 HCO Termux AI Security Assistant is designed for learning, security awareness, defensive testing and checking your own Android/Termux environment.
@@ -125,6 +123,8 @@ python hco_termux_assistant.py
 The HCO startup screen will appear.
 
 ---
+
+# 👨‍💻 Code by Azhar Team HCO
 
 # 📺 YOUTUBE SUPPORT REDIRECT
 
